@@ -1,23 +1,26 @@
-###**Youssouf Roki-dine - Data Scientist**
+### Youssouf Roki-dine - Data Scientist 
+
+Bonjour, je m' appelle Roki-Dine Youssouf, un Data Scientist et ingénieur IA/ML passionné avec plus de trois ans d'expérience dans le domaine des données. Je me spécialise dans l'apprentissage automatique, l'apprentissage profond, le traitement du langage naturel et l'IA générative utilisant de grands modèles de langage (LLM). Je maîtrise le développement de modèles statistiques avancés et de solutions basées sur les données pour améliorer les opérations commerciales, et je suis compétent dans un large éventail de technologies, notamment Python, R, SQL, SAS et les plateformes Big Data.
 
 ### 👋 À propos de moi
 
-Statisticien et Data Scientist spécialisé en Machine Learning et Deep Learning, je suis à la recherche d'un poste stimulant en CDI pour mettre mes compétences au service de projets innovants. J'aime analyser des données complexes et créer des modèles prédictifs performants.
+👨‍💻 Je suis actuellement ouvert aux opportunités où je peux contribuer et développer davantage mes compétences en science des données et en IA. Mes projets récents impliquent le déploiement de LLM open source, le réglage fin des modèles et le développement dans les Devops avancés à l'aide de technologies telles que Python, R, C/C++, TensorFlow, PyTorch et diverses plateformes cloud (AWS, GCP, Azure).
+
 ### 🚀 Expérience Professionnelle
 
-    ## Stagiaire Statisticien, Société Vauché, Février 2024 - Juillet 2024
+## Stagiaire Statisticien, Société Vauché, Février 2024 - Juillet 2024
 
         Optimisation du plan de sondage pour l'estimation de la qualité de tri des déchets recyclables.
 
         Développement d'outils Python pour l'analyse statistique et les simulations.
 
-    ### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
+### Stagiaire Data Scientist, L.Paul Painlevé Lille, Mars 2023 - Juin 2023
 
         Construction d'un modèle de classification pour distinguer l'eau potable de l'eau non potable.
 
         Comparaison des performances de différents algorithmes de Machine Learning.
 
-   ### Enseignant en Mathématiques, Aix Marseille Université, Septembre 2020 - Juin 2021
+### Enseignant en Mathématiques, Aix Marseille Université, Septembre 2020 - Juin 2021
 
         Cours de soutien en mathématiques à domicile auprès de collégiens et de lycéens.
 
